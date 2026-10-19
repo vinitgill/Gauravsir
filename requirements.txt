@@ -4,4 +4,4 @@ scikit-learn
 streamlit
 matplotlib
 seaborn
-scipy
+scipy=1
